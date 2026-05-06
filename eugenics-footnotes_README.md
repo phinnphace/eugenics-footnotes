@@ -8,7 +8,7 @@ That contradiction is not accidental. It reveals how statistical pedagogy system
 
 This project began as a course assignment and became something else. Two analysts worked independently on the same dataset and arrived at divergent findings — not because one was wrong, but because their training shaped what each looked for. That divergence became the case study itself.
 
-**Working paper:** `MarksonP_Iris_CaseStudy_Final2025.docx` (redacted for collaborator privacy)
+**Working paper:** `tinyurl.com/IrisConsulting](https://tinyurl.com/IrisConsulting)` (redacted for collaborator privacy)
 
 ---
 
